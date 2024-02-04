@@ -4,6 +4,8 @@
 
 <h1 align="center"> Semana Frontend DIO <br> Reproduzido por Jessica Lima Basilio </h1>
 
+<p>Fevereiro de 2024 - projeto em andamento</p>
+
 
 Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Invertido é incerto, repleto de obstáculos e perigos. Porém, a recompensa é grande: salvar Hawkings e o mundo todo das garras de Vecna. Você está preparado(a)? 
 
