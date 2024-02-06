@@ -40,11 +40,16 @@ Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Inve
 - [WAI - Web Acessibility Initiative](https://www.w3.org/WAI/)
 - [WCAG 2](https://www.w3.org/WAI/WCAG21/quickref/) 
 - [Figma](https://www.figma.com/file/I3Q42CcVUziRN3iMfTrbfb/Stranger-Things?node-id=0%3A1) 
-- [Demo](https://micheleambrosio.github.io/semana-frontend-mundo-invertido/) 
+- [Demo](https://micheleambrosio.github.io/semana-frontend-mundo-invertido/)
 
-## Professores
+## 🧚🧚‍♂️Professores
 
 - Diogo Mainardes -> HTML
 - Michele Ambrósio -> CSS
- 
+
+## 👩‍💻 Resultado:
+
+
+https://github.com/JesskaBasilio/mundo-invertido/assets/152433983/8088f58e-d61b-4c0e-8024-3d1349b452f8
+
 
